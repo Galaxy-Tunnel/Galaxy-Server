@@ -1,13 +1,19 @@
-vless://7777489c-9d5f-407d-81e9-3467cff92134@galaxy-5.gaxlayplanet.workers.dev:443?path=ed%3D%2F2680&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=galaxy-5.gaxlayplanet.workers.dev&fp=random&type=ws&sni=galaxy-5.gaxlayplanet.workers.dev#Galaxy-Tunnel 
+trojan://06342023-1ae0-401d-8758-1ae64a15d032@cloud.win127206.workers.dev:443?path=%2F&security=tls&insecure=0&host=cloud.win127206.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cloud.win127206.workers.dev#Galaxy-Trojan 
 
-vless://8221a740-8218-4775-ab45-0bab948285ec@sub.galaxytunnel2026.workers.dev:443?security=tls&encryption=none&host=sub.galaxytunnel2026.workers.dev&type=ws&sni=sub.galaxytunnel2026.workers.dev#Galaxy-Tunnel 
+vless://11fca898-787c-43d3-b123-3c379e3e6cbe@galaxy-server-page.pages.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxy-server-page.pages.dev&type=ws&allowInsecure=0&sni=galaxy-server-page.pages.dev#Galaxy-Server-lll 
 
-vless://26fe5cdd-e772-4238-8adc-9bf53d4781fa@coca.nobless.workers.dev:443?path=%2F&security=tls&encryption=none&host=coca.nobless.workers.dev&type=ws&sni=coca.nobless.workers.dev#Galaxy-Tunnel 
+trojan://3413d540-942c-4763-ad39-3854a3621a2e@galaxy-3.z-empire.workers.dev:443?path=%2F&security=tls&alpn=h3&insecure=0&host=galaxy-3.z-empire.workers.dev&type=ws&allowInsecure=0&sni=galaxy-3.z-empire.workers.dev#Galaxy-Tunnel%2FTrojan%F0%9F%86%99 
 
+trojan://5a733fcb-f724-45d5-9f6f-9cd96d812409@clone.yatokami.workers.dev:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=clone.yatokami.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=clone.yatokami.workers.dev#clone%20 
 
-trojan://5a733fcb-f724-45d5-9f6f-9cd96d812409@clone.yatokami.workers.dev:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=clone.yatokami.workers.dev&fp=chrome&type=ws&sni=clone.yatokami.workers.dev#clone 
+vless://8221a740-8218-4775-ab45-0bab948285ec@cloud.gaxlayplanet.workers.dev:443?security=tls&encryption=none&insecure=0&host=sub.galaxytunnel2026.workers.dev&type=ws&allowInsecure=0&sni=sub.galaxytunnel2026.workers.dev#Galaxy-Tunnel 
 
+vless://94324803-8e22-4821-bd46-af92dc07f8e2@galaxy-service.gaxlayplanet.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxy-service.gaxlayplanet.workers.dev&type=ws&allowInsecure=0&sni=galaxy-service.gaxlayplanet.workers.dev#A 
 
-trojan://18616960-5953-490c-a717-5462c9c63517@galaxy-2.pages.dev:443?path=%2F&security=tls&host=galaxy-2.pages.dev&fp=random&type=ws&sni=galaxy-2.pages.dev#Galaxy-Tunnel%E2%9A%A1
+trojan://18616960-5953-490c-a717-5462c9c63517@galaxy-2.pages.dev:443?path=%2F&security=tls&insecure=0&host=galaxy-2.pages.dev&fp=random&type=ws&allowInsecure=0&sni=galaxy-2.pages.dev#Galaxy-Tunnel%E2%9A%A1 
 
-trojan://3413d540-942c-4763-ad39-3854a3621a2e@galaxy-3.z-empire.workers.dev:443?path=%2F&security=tls&alpn=h3&host=galaxy-3.z-empire.workers.dev&type=ws&sni=galaxy-3.z-empire.workers.dev#Galaxy-Tunnel%2FTrojan%F0%9F%86%99
+vless://5d93b6ca-6215-4958-94e7-5883d3c073b4@galaxy-server-2.keyjansama.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxy-server-2.keyjansama.workers.dev&type=ws&allowInsecure=0&sni=galaxy-server-2.keyjansama.workers.dev#V 
+
+vless://26fe5cdd-e772-4238-8adc-9bf53d4781fa@coca.nobless.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=coca.nobless.workers.dev&type=ws&allowInsecure=0&sni=coca.nobless.workers.dev#Galaxy-Tunnel%20 
+
+trojan://18616960-5953-490c-a717-5462c9c63517@galaxy-2.pages.dev:443?path=%2F&security=tls&insecure=0&host=galaxy-2.pages.dev&fp=random&type=ws&allowInsecure=0&sni=galaxy-2.pages.dev#Galaxy-Tunnel%E2%9A%A1
