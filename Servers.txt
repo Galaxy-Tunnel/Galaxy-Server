@@ -1,19 +1,15 @@
-trojan://06342023-1ae0-401d-8758-1ae64a15d032@cloud.win127206.workers.dev:443?path=%2F&security=tls&insecure=0&host=cloud.win127206.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cloud.win127206.workers.dev#Galaxy-Trojan 
+trojan://0df4d17b-839f-45a6-bf32-1d744e908102@gprox09.iceisland.workers.dev:443?path=%2F&security=tls&alpn=h3&insecure=0&host=gprox09.iceisland.workers.dev&type=ws&allowInsecure=0&sni=gprox09.iceisland.workers.dev#GPROX09%E2%84%A2 
 
-vless://11fca898-787c-43d3-b123-3c379e3e6cbe@galaxy-server-page.pages.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxy-server-page.pages.dev&type=ws&allowInsecure=0&sni=galaxy-server-page.pages.dev#Galaxy-Server-lll 
+vless://d8c1fa47-4e86-402f-9431-03d41b537d7e@gprox01.pages.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=gprox01.pages.dev&type=ws&allowInsecure=0&sni=gprox01.pages.dev#GRPOX08%E2%84%A2 
 
-trojan://3413d540-942c-4763-ad39-3854a3621a2e@galaxy-3.z-empire.workers.dev:443?path=%2F&security=tls&alpn=h3&insecure=0&host=galaxy-3.z-empire.workers.dev&type=ws&allowInsecure=0&sni=galaxy-3.z-empire.workers.dev#Galaxy-Tunnel%2FTrojan%F0%9F%86%99 
+trojan://5ef79c02-d338-4ac8-9fe1-8a345bb0e432@galaxy-tunnel.cloudflareaccess.com:443?path=%2F&security=tls&insecure=0&host=gprox-v04.galaxy-server-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gprox-v04.galaxy-server-1.workers.dev#GPROX01%E2%84%A2 
 
-trojan://5a733fcb-f724-45d5-9f6f-9cd96d812409@clone.yatokami.workers.dev:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=clone.yatokami.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=clone.yatokami.workers.dev#clone%20 
+trojan://18939c1d-2eec-4171-b371-50b6eeeefe64@gprox04.troxy.workers.dev:443?path=%2F&security=tls&insecure=0&host=gprox04.troxy.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gprox04.troxy.workers.dev#GPROX02%E2%84%A2 
 
-vless://8221a740-8218-4775-ab45-0bab948285ec@cloud.gaxlayplanet.workers.dev:443?security=tls&encryption=none&insecure=0&host=sub.galaxytunnel2026.workers.dev&type=ws&allowInsecure=0&sni=sub.galaxytunnel2026.workers.dev#Galaxy-Tunnel 
+trojan://ab39e73f-f40c-463f-832e-f733480ee32d@gprox03.galaxysub.workers.dev:443?path=%2F&security=tls&insecure=0&host=gprox03.galaxysub.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gprox03.galaxysub.workers.dev#GPROX03%E2%84%A2
 
-vless://94324803-8e22-4821-bd46-af92dc07f8e2@galaxy-service.gaxlayplanet.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxy-service.gaxlayplanet.workers.dev&type=ws&allowInsecure=0&sni=galaxy-service.gaxlayplanet.workers.dev#A 
+trojan://14be4676-f6c7-4e01-bc30-37ffe469a59e@galaxy-groxy.pages.dev:443?path=%2F&security=tls&insecure=0&host=galaxy-groxy.pages.dev&type=ws&allowInsecure=0&sni=galaxy-groxy.pages.dev#GPROX04%E2%84%A2 
 
-trojan://18616960-5953-490c-a717-5462c9c63517@galaxy-2.pages.dev:443?path=%2F&security=tls&insecure=0&host=galaxy-2.pages.dev&fp=random&type=ws&allowInsecure=0&sni=galaxy-2.pages.dev#Galaxy-Tunnel%E2%9A%A1 
+vless://760703ef-eda3-49e6-957f-b03fda222bf0@gprox-v03.yatokami.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=gprox-v03.yatokami.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gprox-v03.yatokami.workers.dev#GPROX06%E2%84%A2 
 
-vless://5d93b6ca-6215-4958-94e7-5883d3c073b4@galaxy-server-2.keyjansama.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxy-server-2.keyjansama.workers.dev&type=ws&allowInsecure=0&sni=galaxy-server-2.keyjansama.workers.dev#V 
-
-vless://26fe5cdd-e772-4238-8adc-9bf53d4781fa@coca.nobless.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=coca.nobless.workers.dev&type=ws&allowInsecure=0&sni=coca.nobless.workers.dev#Galaxy-Tunnel%20 
-
-trojan://18616960-5953-490c-a717-5462c9c63517@galaxy-2.pages.dev:443?path=%2F&security=tls&insecure=0&host=galaxy-2.pages.dev&fp=random&type=ws&allowInsecure=0&sni=galaxy-2.pages.dev#Galaxy-Tunnel%E2%9A%A1
+vless://23ba3bfd-551d-4eca-ae97-67c4efe4f164@gprox-v02.pages.dev:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=gprox-v02.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=gprox-v02.pages.dev#GPROX07%E2%84%A2
