@@ -1,4 +1,4 @@
-vless://d80b020b-f3e9-4cbb-9b92-d91c1d830206@netflixtechblog.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=zerotrust.iceisland.workers.dev&type=ws&allowInsecure=0&sni=zerotrust.iceisland.workers.dev#ZEROTRUST%E2%84%A2%F0%9F%9B%82 
+vless://d80b020b-f3e9-4cbb-9b92-d91c1d830206@e538jrjizj.cloudflare-gateway.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=zerotrust.iceisland.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zerotrust.iceisland.workers.dev#ZEROTRUST%E2%84%A2%F0%9F%9B%82
 
 vless://9696b08e-fdce-4a53-bc23-d383269635a7@galaxy-tunnel-01.cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=vless1.galaxy-tunnel.top&fp=chrome&type=ws&allowInsecure=0&sni=vless1.galaxy-tunnel.top#TOP-V1%E2%84%A2%E2%9A%A1 
 
