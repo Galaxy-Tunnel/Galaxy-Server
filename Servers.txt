@@ -1,6 +1,6 @@
 trojan://GalaxyTunnel-Password-202600@cdn-cookieyes.com:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=galax.galaxyone.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=galax.galaxyone.workers.dev#TROJAN_S1%E2%84%A2 
 
-trojan://GalaxyTunnel-Password-202600@researchbox.org:2053?path=%2F&security=tls&alpn=h3&insecure=0&host=zerotrust.iceisland.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zerotrust.iceisland.workers.dev#TROJAN_S2%E2%84%A2 
+trojan://GalaxyTunnel-Password-202600@researchbox.org:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=zerotrust.iceisland.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=zerotrust.iceisland.workers.dev#TROJAN_S2%E2%84%A2
 
 vless://8abf5670-6f8f-4d56-afc3-04c930d592ec@api.yatha.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=vlessv01.zeroempty.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vlessv01.zeroempty.workers.dev#VLESS_S1%E2%84%A2 
 
