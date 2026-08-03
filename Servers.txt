@@ -2,6 +2,6 @@ trojan://GalaxyTunnel-Password-202600@cdn-cookieyes.com:8443?path=%2F&security=t
 
 trojan://GalaxyTunnel-Password-202600@researchbox.org:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=zerotrust.iceisland.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=zerotrust.iceisland.workers.dev#TROJAN_S2%E2%84%A2
 
-vless://8abf5670-6f8f-4d56-afc3-04c930d592ec@api.yatha.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=vlessv01.zeroempty.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vlessv01.zeroempty.workers.dev#VLESS_S1%E2%84%A2 
+vless://8abf5670-6f8f-4d56-afc3-04c930d592ec@cutt.ly:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vlessv01.zeroempty.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=vlessv01.zeroempty.workers.dev#VLESS_S1%E2%84%A2
 
 vless://00ca616c-766f-42b4-9f43-632244c64a46@www.hugeDomains.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=vlessv02.win127206.workers.dev&type=ws&allowInsecure=0&sni=vlessv02.win127206.workers.dev#VLESS_S2%E2%84%A2 
