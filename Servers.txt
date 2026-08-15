@@ -1,6 +1,9 @@
-vless://1df5a0cf-7187-4434-8a92-ef8328adc50c@example.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=prozerone.cozero.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prozerone.cozero.workers.dev#VLESS%2FSERVER-1%F0%9F%94%B0 
+vless://3e45a2ba-a5c2-4118-9098-06a862143e9e@galaxvless.iceisland.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxvless.iceisland.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=galaxvless.iceisland.workers.dev#Galaxy-Tunnel-VLESS%F0%9F%9A%80 
 
-vless://14956594-b9a6-45d7-85ab-d8eb6534be7f@edge.marker.io:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vless2.tunnelgalaxy808.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=vless2.tunnelgalaxy808.workers.dev#VLESS%2FSERVER-2%F0%9F%94%B0 
-trojan://Global-Galaxy-Trojan@gamingnation.dtac.co.th:443?path=%2F&security=tls&insecure=0&host=global.galaxyll.workers.dev&type=ws&allowInsecure=0&sni=global.galaxyll.workers.dev#TROJAN%2FSERVER%201%E2%9A%A1 
 
-trojan://6477f786-9599-451d-866d-ab50c569eb6a@app.notion.com:443?path=%2F&security=tls&insecure=0&host=xvless.iceisland.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=xvless.iceisland.workers.dev#TROJAN%2FSERVER%202%E2%9A%A1 
+vless://b5fa4402-6fbb-4766-9763-66dd9c39768f@offical.galaxstunnel.workers.dev:443?path=%2Fgalaxytunnel&security=tls&encryption=none&insecure=0&host=offical.galaxstunnel.workers.dev&type=ws&allowInsecure=0&sni=offical.galaxstunnel.workers.dev#Galaxy-Tunnel-OFFICAL%20%F0%9F%9A%80 
+
+
+trojan://0190259b-9645-42f3-bbe3-916c29482bdb@zerone.galaxy-tunnel.top:443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=zerone.galaxy-tunnel.top&type=ws&allowInsecure=0&sni=zerone.galaxy-tunnel.top#Galaxy-Tunnel-OFFICAL%F0%9F%9A%80
+
+vless://27000a24-a0e4-40a6-b675-f30d19c98e0d@server.galaxs.workers.dev:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=server.galaxs.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=server.galaxs.workers.dev#Galaxy-Tunnel-VLESS%F0%9F%9A%80
