@@ -1,9 +1,7 @@
-vless://3e45a2ba-a5c2-4118-9098-06a862143e9e@galaxvless.iceisland.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxvless.iceisland.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=galaxvless.iceisland.workers.dev#Galaxy-Tunnel-VLESS%F0%9F%9A%80 
+vless://0d7589af-2008-40c2-94f6-f43a9748a3ac@galaxy-tunnel.onrender.com:443?path=%2Fgalaxy-tunnel&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=vless1.galaxytunnel2.workers.dev&type=ws&allowInsecure=0&sni=vless1.galaxytunnel2.workers.dev#GALAXY%20VLESS%201
 
+vless://d8b3939f-3416-42bc-8ac1-d89692852088@xless.proxgalax.abrdns.com:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=xless.proxgalax.abrdns.com&fp=random&type=ws&allowInsecure=0&sni=xless.proxgalax.abrdns.com#GALAXY%20VLESS%201
 
-vless://b5fa4402-6fbb-4766-9763-66dd9c39768f@offical.galaxstunnel.workers.dev:443?path=%2Fgalaxytunnel&security=tls&encryption=none&insecure=0&host=offical.galaxstunnel.workers.dev&type=ws&allowInsecure=0&sni=offical.galaxstunnel.workers.dev#Galaxy-Tunnel-OFFICAL%20%F0%9F%9A%80 
+vless://94800957-ba5f-4fb0-9af5-d3211fdbcc57@proxg.galaxytunnel1.workers.dev:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=proxg.galaxytunnel1.workers.dev&type=ws&allowInsecure=0&sni=proxg.galaxytunnel1.workers.dev#2SPECIAL%F0%9F%87%B2%F0%9F%87%B2
 
-
-trojan://0190259b-9645-42f3-bbe3-916c29482bdb@zerone.galaxy-tunnel.top:443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=zerone.galaxy-tunnel.top&type=ws&allowInsecure=0&sni=zerone.galaxy-tunnel.top#Galaxy-Tunnel-OFFICAL%F0%9F%9A%80
-
-vless://27000a24-a0e4-40a6-b675-f30d19c98e0d@server.galaxs.workers.dev:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=server.galaxs.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=server.galaxs.workers.dev#Galaxy-Tunnel-VLESS%F0%9F%9A%80
+vless://147458dc-c820-43f8-85c6-66b1985938ab@aspredicted.org:443?path=%2Fgalaxy-tunnel&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=xless.galaxytunnel.cloud-ip.cc&fp=random&type=ws&allowInsecure=0&sni=xless.galaxytunnel.cloud-ip.cc#Galaxy-TLS
