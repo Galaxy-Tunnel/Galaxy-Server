@@ -1,6 +1,7 @@
-vless://70370594-e2eb-412f-b095-d9dd413c5e2a@2s.ms:443?path=%2F&security=tls&encryption=none&insecure=0&host=sub.tunnel.iblogger.org&fp=random&type=ws&allowInsecure=0&sni=sub.tunnel.iblogger.org#GT%20FREE%20VLESS%202%F0%9F%9A%80 
 vless://44449f65-95bc-4b62-8c50-02fc2804f578@2s.ms:443?path=%2F&security=tls&encryption=none&insecure=0&host=onex.privacy.bbroot.com&fp=android&type=ws&allowInsecure=0&sni=onex.privacy.bbroot.com#GT%20FREE%20VLESS%201%F0%9F%9A%80
-trojan://1259beae-3688-4870-b1a6-ac61f2f21960@2s.ms:8443?path=%2F&security=tls&alpn=h3%2Ch2&insecure=0&host=xv.public.free.nf&fp=chrome&type=ws&allowInsecure=0#GT%20FREE%20TROJAN%202%E2%9A%A1
-trojan://2d68534a-5160-4aa1-b94e-a6429b62079e@infinityfree.com:8443?path=%2F&security=tls&alpn=h3%2Ch2&insecure=0&host=i.lelouch.abrdns.com&fp=random&type=ws&allowInsecure=0#GT%20FREE%20TROJAN%201%E2%9A%A1
+vless://70370594-e2eb-412f-b095-d9dd413c5e2a@2s.ms:443?path=%2F&security=tls&encryption=none&insecure=0&host=sub.tunnel.iblogger.org&fp=random&type=ws&allowInsecure=0&sni=sub.tunnel.iblogger.org#GT%20FREE%20VLESS%202%F0%9F%9A%80 
 vless://4d55f79d-e3ce-4ef0-8a64-bc89d91d54fb@2s.ms:2083?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=v.lelouch.abrdns.com&fp=android&type=ws&allowInsecure=0&sni=v.lelouch.abrdns.com#GT%20FREE%20VLESS%203%E2%9A%A1
+
+trojan://2d68534a-5160-4aa1-b94e-a6429b62079e@infinityfree.com:8443?path=%2F&security=tls&alpn=h3%2Ch2&insecure=0&host=i.lelouch.abrdns.com&fp=random&type=ws&allowInsecure=0#GT%20FREE%20TROJAN%201%E2%9A%A1
+trojan://1259beae-3688-4870-b1a6-ac61f2f21960@2s.ms:8443?path=%2F&security=tls&alpn=h3%2Ch2&insecure=0&host=xv.public.free.nf&fp=chrome&type=ws&allowInsecure=0#GT%20FREE%20TROJAN%202%E2%9A%A1
 trojan://a79ab5c0-1175-4d91-b157-e39ed5d31b1e@2s.ms:8443?path=%2Fgalaxy-tunnel&security=tls&alpn=h3%2Ch2&insecure=0&host=super.blame.kesug.com&fp=android&type=ws&allowInsecure=0#GT%20FREE%20TROJAN%203%F0%9F%9A%80
