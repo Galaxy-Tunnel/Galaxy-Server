@@ -1,7 +1,4 @@
-vless://11b912a0-3640-4a41-ab12-aae5a654429a@galaxytunnel.cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=acc1.galax.cc.cd&type=ws&allowInsecure=0&sni=acc1.galax.cc.cd#Tunnel-1%F0%9F%8C%90
-
-vless://009e0caf-5c44-4298-a6f3-e1f95d1f5b4b@galaxytunnel.cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=acc2.galax.cc.cd&type=ws&allowInsecure=0&sni=acc2.galax.cc.cd#Tunnel-2%F0%9F%8C%90
-
-vless://baaad25b-6cc3-409a-991b-4ee01257de3b@galaxytunnel.cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=acc3.galax.cc.cd&type=ws&allowInsecure=0&sni=acc3.galax.cc.cd#Tunnel-3%F0%9F%8C%90
-
-trojan://70370594-e2eb-412f-b095-d9dd413c5e2a@galaxytunnel.cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=sub.tunnel.iblogger.org&type=ws&allowInsecure=0&sni=sub.tunnel.iblogger.org#Galaxy-Tunnel-Trojan32%F0%9F%9A%80%E2%9A%A1%F0%9F%9A%80
+vless://40773617-b95b-4f47-9f00-6a1f6137fa4e@privacy.bbroot.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=privacy.bbroot.com&type=ws&allowInsecure=0&sni=privacy.bbroot.com#A
+vless://1aa33560-4aa4-4fc7-9228-0d3c69940e22@2026.galaxy-tunnel.top:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=2026.galaxy-tunnel.top&type=ws&allowInsecure=0&sni=2026.galaxy-tunnel.top#galaxy.mytunnel.org
+vless://43062b0e-9d4e-48f5-87ac-5c6c3a861524@proxy.galaxy-tunnel.top:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=proxy.galaxy-tunnel.top&type=ws&allowInsecure=0&sni=proxy.galaxy-tunnel.top#GT
+vless://1aa33560-4aa4-4fc7-9228-0d3c69940e22@galaxy-vless.pages.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=galaxy-vless.pages.dev&type=ws&allowInsecure=0&sni=galaxy-vless.pages.dev#GT
